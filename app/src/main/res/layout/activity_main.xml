@@ -7,6 +7,7 @@
     tools:context=".MainActivity">
 
     <Button
+        android:id="@+id/bt_accept_video_call"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="接受视频"/>
